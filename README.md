@@ -19,5 +19,5 @@ Tech stacks: React Js, Hooks, Material UI, NodeJs, Express Js
 
 # Build Setup
 * Clone repository
-* Open folder backend and `npm install` and `node app.js`
+* Open folder [backend](https://github.com/HafidzN/BE-Pokedex),  `npm install` and `node app.js`
 * Open folder pokemon and `npm install` and `npm start`
