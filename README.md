@@ -1,6 +1,6 @@
 # POKEDEX
 
-Tech stacks: React Js, Hooks, Material UI, NodeJs, Express Js
+Tech stacks: React Js, Hooks, SASS/SCSS, Material UI, NodeJs, Express Js
 
 
 ## Features
